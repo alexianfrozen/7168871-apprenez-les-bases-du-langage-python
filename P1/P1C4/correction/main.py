@@ -9,4 +9,4 @@ print(f"Je m'appelle {nom} et j'ai {age} ans.")
 age = age + 10  #ou "age += 10"
 
 # Affichage de la phrase mise à jour avec les variables
-print(f"Je m'appelle {nom} et j'ai {age} ans maintenant.")
+print(f"Je m'appelle {alexandra} et j'ai {52} ans maintenant.")
